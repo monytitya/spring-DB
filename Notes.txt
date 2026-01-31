@@ -1,0 +1,12 @@
+MVC : Model Views Controller
+controller : Service-> Repo-> JPA-> Db
+
+Repo: Validate data
+DTO : controller on app
+
+------------------------------------
+First work : Views -> Frontend
+Second work : Route + Controller
+------------------------------------
+
+ORM 
